@@ -21,3 +21,10 @@
 
 # How api returns data?
 ![api](https://user-images.githubusercontent.com/11765482/37170984-85d01396-2334-11e8-9d79-1b1fe2db2d60.PNG)
+
+
+
+### Authors
+- Bipin Oli bipinoli90@gmail.com
+- Aayush Gautam agautam1997@gmail.com
+- Kuldip Bhutoria 072bct518@pcampus.edu.np
